@@ -49,7 +49,7 @@ Salary is the field to treat carefully. Many ads leave it blank, and the rest mi
 
 ## Example record shape (mock)
 
-All values below are made up; only the field names and types reflect a real record.
+An illustrative, simplified shape with made-up values. Field names vary by source.
 
 ```json
 {
