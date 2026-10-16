@@ -9,6 +9,7 @@ Short, practical guides on getting structured data out of well-known websites an
 
 ## Guides
 
+- **[Businesses-for-sale data for the United States](businesses-for-sale-usa/README.md)** - Asking prices, SDE and broker data from small-business listings, public datasets that complement them, and how to compute valuation multiples
 - **[Job listings data for Australia and New Zealand](job-listings-australia/README.md)** - Which fields job boards expose, how to track salaries and demand, and the options for collecting it
 
 ## How these guides work
